@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Gentzkow Shapiro Lab (GSLab) : ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Gentzkow Shapiro Lab (GSLab)</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/zqian1">View on GitHub</a>
+
+          <h1 id="project_title">Gentzkow Shapiro Lab (GSLab)</h1>
+          <h2 id="project_tagline"></h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a id="people" class="anchor" href="#people" aria-hidden="true"><span class="octicon octicon-link"></span></a>People</h3>
+
+<p><a href="http://faculty.chicagobooth.edu/matthew.gentzkow/">Matthew Gentzkow</a><br>
+Richard O. Ryan Professor of Economics and Neubauer Family Faculty Fellow<br>
+University of Chicago Booth School of Business</p>
+
+<p><a href="http://www.brown.edu/Research/Shapiro/">Jesse Shapiro</a><br>
+George S. and Nancy B. Parker Professor of Economics<br>
+Brown University</p>
+
+<h6>
+<a id="current-research-professionals" class="anchor" href="#current-research-professionals" aria-hidden="true"><span class="octicon octicon-link"></span></a>Current Research Professionals</h6>
+
+<p><a href="mailto:choij7206@gmail.com">Jiwon Choi</a>, 2014-present<br>
+BA Economics &amp; Mathematics, Brown University, 2014</p>
+
+<p><a href="mailto:qzjquantum@gmail.com">Zongjin Qian</a>, 2013-present<br>
+BS Physics &amp; Mathematics, Duke University, 2013</p>
+
+<p><a href="mailto:berlin.wong@gmail.com">Michael B. Wong</a>, 2013-present<br>
+BA Physics, Harvard University, 2012</p>
+
+<p><a href="mailto:allenzhangtl@gmail.com">Allen T. Zhang</a>, 2013-present<br>
+BA Economics &amp; Statistics, University of Chicago, 2013</p>
+
+<h3>
+<a id="past-members" class="anchor" href="#past-members" aria-hidden="true"><span class="octicon octicon-link"></span></a>Past Members</h3>
+
+<p><a href="https://bepp.wharton.upenn.edu/profile/21190/">Michael Sinkinson</a>, lab member 2006-2007<br>
+Assistant Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania, 2012-present.<br>
+PhD Business Economics, Harvard University, 2012; B.Com Commerce, Queen’s University, 2004</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
