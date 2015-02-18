@@ -57,11 +57,11 @@ BA Economics &amp; Statistics, University of Chicago, 2013</p>
 <a id="past-members" class="anchor" href="#past-members" aria-hidden="true"><span class="octicon octicon-link"></span></a>Past Members</h3>
 
 <p><a href="https://bepp.wharton.upenn.edu/profile/21190/">Michael Sinkinson</a>, lab member 2006-2007<br>
-Assistant Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania, 2012-present.<br>
+Assistant Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania, 2012-present<br>
 PhD Business Economics, Harvard University, 2012; B.Com Commerce, Queen’s University, 2004</p>
 
 <p><a href="https://bepp.wharton.upenn.edu/profile/24541/">Jose Miguel Abito</a>, lab member 2007-2008<br>
-Assistant Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania, 2013-present.<br>
+Assistant Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania, 2013-present<br>
 PhD Economics, Northwestern University, 2013; MSc Mathematical Economics and Econometrics, Toulouse School of Economics, 2007; B.SocSci. Economics, National University of Singapore, 2006</p>
 
 <p><a href="http://scholar.harvard.edu/mahon/home">James Mahon</a>, lab member 2007-2009<br>
@@ -69,45 +69,47 @@ PhD Candidate in Political Economy and Government, Harvard University, 2009 to p
 BA Economics &amp; Political Science, Columbia University, 2007</p>
 
 <p><a href="https://bepp.wharton.upenn.edu/profile/1744/research/?pubFilter=all">Patrick DeJarnette</a>, lab member 2008-2010<br>
-PhD Candidate in Applied Economics, The Wharton School, University of Pennsylvania, 2010 to present.<br>
+PhD Candidate in Applied Economics, The Wharton School, University of Pennsylvania, 2010 to present<br>
 BA Economics &amp; Mathematics, University of Chicago, 2008</p>
 
 <p><a href="http://home.uchicago.edu/~yaolu/index.html">Yao Lu</a>, lab member 2009-2010<br>
-Associate at Analysis Group Boston, starting 2015.<br>
+Associate at Analysis Group Boston, starting 2015<br>
 PhD Economics, Booth School of Business, University of Chicago, 2015; BA Economics, Harvard University, 2008</p>
 
-<p><a href="mailto:michael.thomas@chicagobooth.edu">Michael Thomas</a>, lab member 2009-2011<br>
-PhD Candidate in Marketing, Booth School of Business, University of Chicago, 2011 to present.<br>
+<p><a href="mailto:mthomas8@ChicagoBooth.edu">Michael Thomas</a>, lab member 2009-2011<br>
+PhD Candidate in Marketing, Booth School of Business, University of Chicago, 2011 to present<br>
 MSc Economics, The London School of Economics and Political Science, 2008;<br> BS Chemical/Biochemical Engineering, University of California, Davis, 1998</p>
 
 <p><a href="mailto:npetek0@chicagobooth.edu">Nathan Petek</a>, lab member 2009-2011<br>
-PhD Candidate in Economics, Booth School of Business, University of Chicago, 2011 to present.<br>
+PhD Candidate in Economics, Booth School of Business, University of Chicago, 2011 to present<br>
 BA Economics &amp; Psychology, Carleton College, 2004</p>
 
 <p><a href="mailto:verbeck@princeton.edu">CJ Verbeck</a>, lab member 2010-2012<br>
-PhD Candidate in Economics, Princeton University, 2012 to present.<br>
+PhD Candidate in Economics, Princeton University, 2012 to present<br>
 BA Economics &amp; Mathematics, Pomona College, 2010</p>
 
 <p><a href="mailto:liuer@mit.edu">Ernest Liu</a>, lab member 2010-2012<br>
-PhD Candidate in Economics, Massachusetts Institute of Technology, 2012 to present.<br>
+PhD Candidate in Economics, Massachusetts Institute of Technology, 2012 to present<br>
 BA Mathematics, Carleton College, 2010</p>
 
-<p><a href="mailto:nick.tsivanidis@chicagobooth.edu">Nick Tsivanidis</a>, lab member 2011-2012<br>
-PhD Candidate in Economics, Booth School of Business, University of Chicago, 2012 to present.</p>
+<p><a href="mailto:n.tsivanidis@chicagobooth.edu">Nick Tsivanidis</a>, lab member 2011-2012<br>
+PhD Candidate in Economics, Booth School of Business, University of Chicago, 2012 to present<br>
+BS Politics, Philosophy and Economics (Econ Maj), Warwick University, 2009; MA International and Development Economics, Yale University, 2010</p>
 
 <p><a href="mailto:linhto@fas.harvard.edu">Linh Tô</a>, lab member 2011-2013<br>
-PhD Candidate in Economics, Harvard University, 2013 to present.</p>
+PhD Candidate in Economics, Harvard University, 2013 to present<br>
+BA Macalester College, 2007</p>
 
 <p><a href="mailto:chodgson@stanford.edu">Charles Hodgson</a>, lab member 2011-2013<br>
-PhD Candidate in Economics, Stanford University, 2013 to present.<br>
+PhD Candidate in Economics, Stanford University, 2013 to present<br>
 MSc Economics, London School of Economics and Political Science, 2011; BS Philosophy &amp; Economics, London School of Economics and Political Science, 2010</p>
 
 <p><a href="mailto:Tony.Ditta@chicagobooth.edu">Tony Ditta</a>, lab member 2012-2014<br>
-PhD Candidate in Economics, Booth School of Business, University of Chicago, 2014 to present.<br>
+PhD Candidate in Economics, Booth School of Business, University of Chicago, 2014 to present<br>
 BA Economics &amp; Mathematics, Calvin College, 2012</p>
 
 <p><a href="mailto:ryan.edmund.kessler@gmail.com">Ryan Kessler</a>, lab member 2013-2014<br>
-PhD Candidate in Economics, Brown University, 2014 to present.<br>
+PhD Candidate in Economics, Brown University, 2014 to present<br>
 BA Quantitative Economics, Drake University, 2010</p>
       </section>
     </div>
